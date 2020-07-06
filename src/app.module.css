@@ -1,0 +1,23 @@
+
+
+
+
+@media print {
+
+    .divInput{
+        display: none;
+    }
+    .chart{
+        width: auto;
+        transform:translateY(800px)translateX(-200px) rotate(-90deg) scale(0.5);
+
+    }
+    .divInput2{
+        display: none;
+    }
+    .chart2{
+        width: auto;
+        transform:translateY(700px)translateX(-200px) rotate(-90deg) scale(0.5);
+
+    }
+}
